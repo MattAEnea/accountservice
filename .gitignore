@@ -1,0 +1,6 @@
+#Do not track these folders
+target/
+.settings/
+#Ignore these files
+.classpath
+.project
